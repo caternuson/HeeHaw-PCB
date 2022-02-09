@@ -9064,20 +9064,20 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="U1" library="Ooo-IC-Power" deviceset="AP2112" device="SOT25"/>
 <part name="X2" library="Ooo-Connectors" deviceset="SWD_2X5" device=""/>
 <part name="U$2" library="Ooo-Switches" deviceset="PTS647" device=""/>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2"/>
-<part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2"/>
+<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
+<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10uF"/>
+<part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10uF"/>
 <part name="U$5" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$7" library="Ooo-PowerSymbols" deviceset="GND" device=""/>
 <part name="U$8" library="Ooo-PowerSymbols" deviceset="GND" device=""/>
 <part name="U$9" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$10" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$11" library="Ooo-PowerSymbols" deviceset="GND" device=""/>
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
+<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
 <part name="U$12" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$15" library="Ooo-PowerSymbols" deviceset="GND" device=""/>
 <part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
-<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3"/>
+<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="U$16" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$17" library="Ooo-PowerSymbols" deviceset="GND" device=""/>
 <part name="D1" library="Ooo-LED" deviceset="SMD_LED" device="0603"/>
@@ -9088,7 +9088,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="U$13" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$14" library="Ooo-PowerSymbols" deviceset="GND" device=""/>
 <part name="FRAME2" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="FRAME_A_L" device=""/>
-<part name="R5" library="Ooo-Resistors" deviceset="RESISTOR_4PACK" device=""/>
+<part name="R5" library="Ooo-Resistors" deviceset="RESISTOR_4PACK" device="" value="10k"/>
 <part name="Q1" library="Ooo-Transistors" deviceset="MOSFET-N_DUAL" device=""/>
 <part name="U$18" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="U$19" library="Ooo-PowerSymbols" deviceset="3.3V" device=""/>

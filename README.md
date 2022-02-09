@@ -1,2 +1,2 @@
 # HeeHaw-PCB
-Developmental seesaw Board
+Developmental seesaw board
